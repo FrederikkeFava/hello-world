@@ -1,2 +1,7 @@
 # hello-world
-Just another repository - and the guide help one
+
+Hi everyone!
+
+This is just a test to see if I understand the use of Github.
+
+Hope this will work out!
